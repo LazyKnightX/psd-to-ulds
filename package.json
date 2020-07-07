@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/LazyKnightX/psd-to-ulds#readme",
   "devDependencies": {
-    "electron": "^1.6.11",
+    "electron": "^9.1.0",
     "psd": "^3.1.0"
   }
 }
